@@ -1,0 +1,5 @@
+twilio
+yfinance
+bta-lib
+python-dotenv
+pandas-market-calendars
